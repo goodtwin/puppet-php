@@ -2,12 +2,12 @@ require 'formula'
 
 class Zlibphp < Formula
   homepage 'http://www.zlib.net/'
-  url 'http://zlib.net/zlib-1.2.7.tar.gz'
-  sha1 '4aa358a95d1e5774603e6fa149c926a80df43559'
+  url 'http://zlib.net/zlib-1.2.8.tar.gz'
+  sha1 '44d667c142d7cda120332623eab69f40'
 
   keg_only :provided_by_osx
 
-  version '1.2.7-boxen1'
+  version '1.2.8-boxen1'
 
   option :universal
 
