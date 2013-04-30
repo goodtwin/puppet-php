@@ -3,7 +3,7 @@ require 'formula'
 class Zlibphp < Formula
   homepage 'http://www.zlib.net/'
   url 'http://zlib.net/zlib-1.2.8.tar.gz'
-  sha1 '44d667c142d7cda120332623eab69f40'
+  sha1 'a4d316c404ff54ca545ea71a27af7dbc29817088'
 
   keg_only :provided_by_osx
 
